@@ -26,7 +26,7 @@ A **WEB DEVELOPMENT** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I graduated from FPT Polytechnic College Danang.
+- I graduated from FPT Polytechnic College Danang.
 - 🌱 I am currently exploring PHP with great interest in PHP applications, Data Structures and Algorithms.
 - 🤔 My interest is in web development.
 - 💬 Ask me about anything, I love to answer!
@@ -41,14 +41,15 @@ A **WEB DEVELOPMENT** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
@@ -58,8 +59,3 @@ A **WEB DEVELOPMENT** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchanh0306&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
-
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
-
-Last Edited on: 04/01/2021
