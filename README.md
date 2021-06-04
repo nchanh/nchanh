@@ -57,6 +57,12 @@ A **WEB DEVELOPMENT** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"></code>
 
+<code><img height="20" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/phpstorm-PhpStorm_400x400_Twitter_logo_white.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cAj3j8T0qWxYsc6NpXRgAyHHg7qKpR3GFagNSop7E7gHP73LYR9lpPY0B1_pfIPTvu8&usqp=CAU"></code>
+<code><img height="20" src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CgVYak3GO9ojqvnr4x6FExyYK7qPDnOYWwgVVjZylAas0x5YBh3vSOATA3VdMgId9Hw&usqp=CAU"></code>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchanh0306&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
