@@ -38,11 +38,13 @@ A **WEB DEVELOPMENT** 🚀.
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
