@@ -26,10 +26,10 @@ A **WEB DEVELOPMENT** 🚀.
 **About Me!**
 
 - I graduated from FPT Polytechnic College Danang.
-- 🌱 I am currently exploring PHP with great interest in PHP applications, Data Structures and Algorithms.
-- 🤔 My interest is in web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nguyenchanh0306@gmail.com](mailto:nguyenchanh0306@gmail.com).
+- I am currently exploring PHP with great interest in PHP applications, Data Structures and Algorithms.
+- My interest is in web development.
+- Ask me about anything, I love to answer!
+- Email me at [nguyenchanh0306@gmail.com](mailto:nguyenchanh0306@gmail.com).
 
 
 
