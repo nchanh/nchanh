@@ -63,6 +63,6 @@ A **WEB DEVELOPMENT** 🚀.
 <code><img height="20" src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" title="Eclipse"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CgVYak3GO9ojqvnr4x6FExyYK7qPDnOYWwgVVjZylAas0x5YBh3vSOATA3VdMgId9Hw&usqp=CAU" title="IntelliJ IDEA"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenchanh0306&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchanh0306&count_private=true&theme=radical" alt="Jas-Script" />
+<img src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
