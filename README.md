@@ -6,10 +6,10 @@
 <a href="https://www.instagram.com/chanh.phy/">
   <img align="left" alt="Nguyen Chanh Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/nguyenchanh0306">
+<a href="https://twitter.com/nchanhtw">
   <img align="left" alt="Nguyen Chanh Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nguyen-chanh-2277001b5/">
+<a href="https://www.linkedin.com/in/nchanh/">
   <img align="left" alt="Nguyen Chanh LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
