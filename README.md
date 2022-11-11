@@ -25,9 +25,9 @@ A **WEB DEVELOPMENT** 🚀.
 
 **About Me!**
 
-- 🌻 I graduated from FPT Polytechnic College Danang.
-- 🏫 I'm currently working on PHP projects - Laravel, Angular.
-- 🤔 My interest is in web development.
+- 🌻 Danang, Viet Nam.
+- 🏫 I'm currently working on Web Dev.
+- 🤔 My interest is everything.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [nguyenchanh0306@gmail.com](mailto:nguyenchanh0306@gmail.com).
 
