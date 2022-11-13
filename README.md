@@ -36,6 +36,6 @@ A **WEB DEVELOPMENT** 🚀.
 **Languages and Tools: <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript"></code>**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="right src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
+<img align="right src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="right width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
