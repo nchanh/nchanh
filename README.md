@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Nguyen Chanh!</h3>
+<h3 title="hehehe"> Hey 👋, My name's Nguyen Chanh!</h3>
 
 <a href="https://www.facebook.com/chanh.nguyen.632/">
   <img align="left" alt="Nguyen Chanh Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -13,27 +13,15 @@
   <img align="left" alt="Nguyen Chanh LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-
 <br />
 <br />
 
-A **WEB DEVELOPMENT** 🚀.
+I WORK AS A **WEB DEVELOPMENT** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <img align="right src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats" />
-  <img align="right src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
-  <img align="right width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+<img src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
 
-- 🌻 Danang, Viet Nam.
-- 🏫 I'm currently working on Web Dev.
-- 🤔 My interest is everything.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nguyenchanh0306@gmail.com](mailto:nguyenchanh0306@gmail.com).
-
-
-
-**Languages and Tools: <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript"></code>**
