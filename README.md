@@ -22,6 +22,9 @@ A **WEB DEVELOPMENT** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats" />
+  <img align="right src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
+  <img align="right width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
 
 **About Me!**
 
@@ -34,8 +37,3 @@ A **WEB DEVELOPMENT** 🚀.
 
 
 **Languages and Tools: <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript"></code>**
-
-
-<img align="right src="https://github-readme-stats.vercel.app/api?username=nchanh&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Nguyen Chanh GitHub Stats">
-<img align="right src="https://github-readme-streak-stats.herokuapp.com/?user=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="right width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchanh&count_private=true&theme=radical" alt="Jas-Script" />
